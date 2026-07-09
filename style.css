@@ -41,7 +41,7 @@ font-size:32px;
 
 header span{
 
-color:#00ff88;
+color:#007bff;
 
 }
 
@@ -173,7 +173,7 @@ transition:.3s;
 
 transform:translateY(-10px);
 
-border-color:#00ff88;
+border-color:#007bff;
 
 }
 
@@ -185,7 +185,7 @@ display:block;
 
 font-size:30px;
 
-color:#00ff88;
+color:#007bff;
 
 margin-top:20px;
 
@@ -226,7 +226,7 @@ text-align:center;
 
 .precos h2{
 
-color:#00ff88;
+color:#007bff;
 
 }
 
@@ -234,7 +234,7 @@ color:#00ff88;
 
 .destaque{
 
-border:2px solid #00ff88;
+border:2px solid #007bff;
 
 transform:scale(1.05);
 
